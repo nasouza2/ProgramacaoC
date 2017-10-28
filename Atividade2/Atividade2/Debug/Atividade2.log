@@ -1,4 +1,19 @@
 ﻿  Origem.c
 c:\users\natalia\source\repos\atividade2\atividade2\origem.c(4): warning C4013: 'system' indefinido; assumindo extern retornando int
+c:\users\natalia\source\repos\atividade2\atividade2\origem.c(21): warning C4129: 'E': sequência de escape de caractere não reconhecida
+c:\users\natalia\source\repos\atividade2\atividade2\origem.c(49): warning C4129: 'E': sequência de escape de caractere não reconhecida
+c:\users\natalia\source\repos\atividade2\atividade2\origem.c(55): warning C4129: 'E': sequência de escape de caractere não reconhecida
+c:\users\natalia\source\repos\atividade2\atividade2\origem.c(31): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(31): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(31): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(31): note: esse argumento é usado como um tamanho do buffer
+c:\users\natalia\source\repos\atividade2\atividade2\origem.c(33): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(33): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(33): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(33): note: esse argumento é usado como um tamanho do buffer
+c:\users\natalia\source\repos\atividade2\atividade2\origem.c(40): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(40): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(40): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\natalia\source\repos\atividade2\atividade2\origem.c(40): note: esse argumento é usado como um tamanho do buffer
   Atividade2.vcxproj -> C:\Users\Natalia\source\repos\Atividade2\Debug\Atividade2.exe
   Atividade2.vcxproj -> C:\Users\Natalia\source\repos\Atividade2\Debug\Atividade2.pdb (Partial PDB)
